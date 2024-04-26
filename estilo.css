@@ -1,0 +1,36 @@
+BODY{
+	font-family: time new roman;
+}
+
+.p{
+	background-color: #DFB7DD;
+}
+.menu{
+	list-style: none;
+ 	padding: 3px;	
+	background-color: #FFF0FD;
+	width: 97%;
+	max-width: 2000px;
+}
+
+.menu li a{
+	text-decoration: none;
+	color: black ;
+	padding: 10px;
+	display: block;
+}
+
+.menu li{
+	display: inline-block;
+	text-align: center;
+}
+
+.menu li a:hover{
+	background: pink ;
+}
+	img{
+		width: 400px;
+		padding: 50px;
+}
+
+
